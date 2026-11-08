@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tennis Mind Coach 🎾🧠
 
 An open-source, multi-platform AI skill that acts as a top-tier sports psychologist and personal mind coach for tennis players aged 10 to 60 (from beginners to professionals). It is designed to help players manage match nerves, handle pressure, lock in focus, and build championship routines.
@@ -41,3 +42,7 @@ You are free to use, modify, and distribute this AI skill for personal or commer
 ## 🛠️ How to Initialize a Session
 Once you load the skill into your preferred AI platform, start your chat by typing:
 `@tennis_mind_coach Hello! Let's set up my profile.`
+=======
+# tennis-mind-coach
+A personal tennis mind coach: a top-tier sports psychologist. Used by tennis player or a parent or coach 
+>>>>>>> 44861885457b1ab97c840388eb18323aa437ee47
